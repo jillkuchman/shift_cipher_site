@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/shift_cipher"]
+	path = sites/all/modules/shift_cipher
+	url = git://github.com/jillkuchman/shift_cipher.git
